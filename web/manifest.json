@@ -1,6 +1,6 @@
 {
-    "name": "barber_shopp",
-    "short_name": "barber_shopp",
+    "name": "Barbearia",
+    "short_name": "Barbearia",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
