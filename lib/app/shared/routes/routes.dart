@@ -1,4 +1,3 @@
-import 'dart:js';
 
 import 'package:barber_shopp/app/modules/home/views/pages/home_page.dart';
 import 'package:barber_shopp/app/modules/login/views/pages/login_page.dart';
