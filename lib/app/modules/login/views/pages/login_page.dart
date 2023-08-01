@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
                       child: Image.asset(
                           alignment: Alignment.center,
                           fit: BoxFit.fitHeight,
-                          'images/login.png')),
+                          'assets/images/login.png')),
                   const SizedBox(
                     height: 20,
                   ),
